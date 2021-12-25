@@ -14,7 +14,7 @@ N/A
 -
 
 <b>Built with</b>
-- [Anjuta](https://anjuta.org)
+- [Anjuta](https://www.anjuta.org)
 
 ## Features
 N/A
