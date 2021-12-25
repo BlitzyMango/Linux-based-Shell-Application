@@ -1,8 +1,8 @@
 ## Linux-based Shell Application
-
+An OS-based program written in C. It emulates how the Linux shell processes commands.
 
 ## Motivation
-This is an Operating Systems class project I made in the Fall 2021 semester. The project's goal was to demonstrate how an OS shell handles the processes of commands. The UNIX shell was used as the reference OS, which meant that we would have to create a child process (Linux shell command) from a parent process (user interface program) to separate . The functions inside library sys/wait.h, such as fork(); and exec(); would be needed to do this.
+This is an Operating Systems class project I made in the Fall 2021 semester. The project's goal was to demonstrate how an OS shell handles command processing. The UNIX shell was used as the reference OS, which meant that we would have to create a child process (i.e. Linux shell command) from a parent process (i.e. User interface program). The functions inside the sys/wait.h header file would be needed to do this, (e.g. fork(), pipe(), execvp(), etc.)
 
 ## Build status
 N/A
