@@ -1,8 +1,8 @@
 ## Linux-based Shell Application
-A little info about your project and/ or overview that explains **what** the project is about.
+
 
 ## Motivation
-This C program was an Operating Systems class project on made in Fall 2021. The project's task was to demonstrate how an OS shell handles the processes of commands. The UNIX shell was used as the reference OS, which meant that we would have to create a child process (Linux shell command) from a parent process (user interface program) to separate . The functions inside library sys/wait.h, such as fork(); and exec(); would be needed to do this.
+This is an Operating Systems class project I made in the Fall 2021 semester. The project's goal was to demonstrate how an OS shell handles the processes of commands. The UNIX shell was used as the reference OS, which meant that we would have to create a child process (Linux shell command) from a parent process (user interface program) to separate . The functions inside library sys/wait.h, such as fork(); and exec(); would be needed to do this.
 
 ## Build status
 N/A
