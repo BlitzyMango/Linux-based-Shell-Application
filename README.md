@@ -1,8 +1,17 @@
-## Linux-based Shell Application
-An OS-based program written in C. It emulates how the Linux shell processes commands.
+### All Important Notes
+###### Last updated on: 1/10/2022 @ 3:10 PM (UTC)
+1. This README file is incomplete and will be updated when it is finished in the near future. All sections pending completion will be marked as "N/A" in the meantime.
+2. The C program file for this application (pipe.c) is planned to see future commits which will improve its documentation.
+
+# Unix-based Shell Application
+### Overview
+This is a program that allows for communication with the OS kernel through the use of command-line arguments.
+
+### Functionality
+N/A
 
 ## Motivation
-This is an Operating Systems class project I made in the Fall 2021 semester. The project's goal was to demonstrate how an OS shell handles command processing. The UNIX shell was used as the reference OS, which meant that we would have to create a child process (i.e. Linux shell command) from a parent process (i.e. User interface program). The functions inside the sys/wait.h header file would be needed to do this, (e.g. fork(), pipe(), execvp(), etc.)
+This program was directly inspired by the Unix shell (Bash), and was created to demonstrate my knowledge of operating systems (on a fundamental level) to future/potential employers.
 
 ## Build status
 N/A
@@ -10,9 +19,7 @@ N/A
 ## Screenshots
 N/A
 
-## Tech/framework used
--
-
+## Technology used
 <b>Built with</b>
 - Anjuta
 
