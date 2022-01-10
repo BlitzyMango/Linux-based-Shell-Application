@@ -6,10 +6,10 @@
 <br>
 
 # Unix-based Shell Application
-### Overview
+## Overview
 This is a program that allows for communication with the OS kernel through the use of command-line arguments.
 
-### Functionality
+## Functionality
 N/A
 
 ## Motivation
