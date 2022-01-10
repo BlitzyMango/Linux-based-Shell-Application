@@ -1,5 +1,5 @@
 ### All Important Notes
-###### Last updated on: 1/10/2022 @ 3:10 PM (UTC)
+###### Last updated on: 1/10/2022 @ 5:24 PM (UTC)
 1. This README file is incomplete and will be updated when it is finished in the near future. All sections pending completion will be marked as "N/A" in the meantime.
 2. The C program file for this application (pipe.c) is planned to see future commits which will improve its documentation.
 
