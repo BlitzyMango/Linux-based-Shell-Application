@@ -31,3 +31,6 @@ N/A
 
 ## Credits
 N/A
+
+## License
+None (public domain)
