@@ -3,6 +3,11 @@
 1. This README file is incomplete and will be updated when it is finished in the near future. All sections pending completion will be marked as "N/A" in the meantime.
 2. The C program file for this application (pipe.c) is planned to see future commits which will improve its documentation.
 
+
+
+
+<br>
+
 # Unix-based Shell Application
 ### Overview
 This is a program that allows for communication with the OS kernel through the use of command-line arguments.
